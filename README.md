@@ -28,9 +28,9 @@ slide-deck summary
 or the output from running this project
 [here](https://github.com/ngaylinn/epigenetic-gol-v1-results).
 
-This algorithm is not yet particularly useful or scientifically informative.
-It's meant as an exploration of a wild idea, to justify [further
-exploration](#future-work)
+This algorithm is not yet particularly useful. It's meant as an exploration of
+a wild idea, to justify [further exploration](#future-work). It is now the
+basis for a scientific paper (not yet published) exploring evolvability.
 
 ## Game of Life
 
